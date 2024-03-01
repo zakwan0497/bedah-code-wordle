@@ -1,0 +1,1 @@
+Bedah code wordle & testing while refer to MDN
